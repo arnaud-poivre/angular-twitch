@@ -1,5 +1,5 @@
 const apiConfig = {
-  clientId: 'efrmnqokv2zxydq5aqco0p3i0tqpg4',
+  clientId: '4m5vewltjwiq6u94nf64kud0agvb6q',
   authUrl: 'https://id.twitch.tv/oauth2/authorize',
   redirectUrl: 'http://localhost:4200/auth/authorize',
   baseUrl: 'https://api.twitch.tv/helix',
